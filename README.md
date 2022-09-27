@@ -12,7 +12,7 @@
 - Delete - Deletar cliente e seus contratos
 
 
-## Banco de dados criado em memoria
+## Banco de dados criado em memória
 
   
 
