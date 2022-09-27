@@ -1,5 +1,5 @@
 # API para Listar, Cadastrar, Atualizar e Excluir :
-##Banco de dados utilizado foi em memoria
+## Banco de dados utilizado foi em memoria
 ### Verbos Http construído na semana dev week da Dio:
 - Get - Selecionar/Buscar dados dos clientes cadastrados e seus contratos
 
