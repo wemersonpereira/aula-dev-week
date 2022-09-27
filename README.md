@@ -1,4 +1,4 @@
-# API para Listar, Cadastrar, Atualizar e Excluir :
+# API em .NET 6.0 para Listar, Cadastrar, Atualizar e Excluir :
 
 ### CRUD construído na semana dev week da Dio:
 - Get - Selecionar/Buscar dados dos clientes cadastrados e seus contratos
